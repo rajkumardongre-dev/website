@@ -1,3 +1,3 @@
 # website
 
-2nd Commit
+Simple website
