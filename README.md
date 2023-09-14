@@ -1,3 +1,3 @@
-# website
+# Amazing Website
 
-Simple website
+Amazing Description
